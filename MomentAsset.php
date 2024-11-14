@@ -6,7 +6,7 @@
  * @version 1.0.0
  */
 
-namespace jino5577\daterangepicker;
+namespace rmw66\daterangepicker;
 
 use yii\web\AssetBundle;
 
