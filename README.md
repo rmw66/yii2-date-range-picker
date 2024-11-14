@@ -1,4 +1,6 @@
 # yii2-date-range-picker
+NOTE: This fork merely updates the bootstrap library reference to Bootstrap 5 to enable this module to work with the latest versions of Yii2. No other changes have been made.
+
 Date range picker input for Yii Framework 2 based on [Dan Grossman's bootstrap-daterangepicker](http://www.daterangepicker.com/).
 
 Features:
