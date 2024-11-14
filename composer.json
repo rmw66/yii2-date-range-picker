@@ -1,8 +1,8 @@
 {
-  "name": "jino5577/yii2-date-range-picker",
+  "name": "rmw66/yii2-date-range-picker",
   "description": "Yii 2 date range picker input based on Dan Grossman daterangepicker plugin.",
-  "keywords": ["yii2", "extension", "widget", "date-range", "time", "date", "range", "bootstrap", "bootstrap 3"],
-  "homepage": "https://github.com/jino5577/yii2-date-range-picker",
+  "keywords": ["yii2", "extension", "widget", "date-range", "time", "date", "range", "bootstrap", "bootstrap 5"],
+  "homepage": "https://github.com/rmw66/yii2-date-range-picker",
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
   "authors": [
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jino5577\\daterangepicker\\": ""
+      "rmw66\\daterangepicker\\": ""
     }
   }
 }
